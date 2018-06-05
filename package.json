@@ -1,0 +1,17 @@
+{
+  "name": "placevalue-ascii",
+  "version": "1.0.0",
+  "description": "javascript port of https://github.com/mouse-reeve/placevalue_ascii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Josh Shi",
+    "url": "http://joshshi.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "placevalue"
+  ]
+}
