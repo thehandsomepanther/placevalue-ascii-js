@@ -2,6 +2,12 @@
 
 This is a JavaScript port of [Mouse Reeve's](https://github.com/mouse-reeve) Python [Placevalue Ascii](https://github.com/mouse-reeve/placevalue_ascii) project. See the original project [README](https://github.com/mouse-reeve/placevalue_ascii/blob/master/README.md) for a short illustration of how Placevalue works.
 
+## How to install
+
+```
+$ npm install placevalue-ascii
+```
+
 ## How to use
 
 ```
