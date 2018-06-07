@@ -10,8 +10,8 @@ $ npm install placevalue-ascii
 
 ## How to use
 
-```
-import placevalue from 'placevalue';
+```js
+const placevalue = require('placevalue');
 
 // an example from Mouse Reeve's website:
 const str = placevalue(
