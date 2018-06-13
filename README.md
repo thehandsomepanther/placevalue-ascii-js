@@ -5,13 +5,13 @@ This is a JavaScript port of [Mouse Reeve's](https://github.com/mouse-reeve) Pyt
 ## How to install
 
 ```
-$ npm install placevalue-ascii
+$ npm install placevalue-ascii --save
 ```
 
 ## How to use
 
 ```js
-const placevalue = require('placevalue');
+const placevalue = require('placevalue-ascii');
 
 // an example from Mouse Reeve's website:
 const str = placevalue(
