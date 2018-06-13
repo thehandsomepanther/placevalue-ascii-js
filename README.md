@@ -30,6 +30,7 @@ placevalue(
   height: int,
   width: int,
   placevalue: int,
-  offsetY: int
+  offsetY: int,
+  offsetX: int
 ): string
 ```
