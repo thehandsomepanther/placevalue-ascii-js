@@ -1,6 +1,6 @@
 {
   "name": "placevalue-ascii",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "javascript port of https://github.com/mouse-reeve/placevalue_ascii",
   "main": "index.js",
   "scripts": {
